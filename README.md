@@ -1,2 +1,2 @@
 # clone-tabnews
-Projeto para aprender
+Projeto para aprender muitas coisas.
