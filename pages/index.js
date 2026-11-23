@@ -1,8 +1,8 @@
 function Home() {
   return (
-    <h1>Todos os canais de Countryballs do Brasil no YouTube</h1><br>
-  <h2>1. DGP Mundo</h2><br>
-  <h3>2. SulBall</h3><br>
+    <h1>Todos os canais de Countryballs do Brasil no YouTube</h1>
+  <h2>1. DGP Mundo</h2>
+  <h3>2. SulBall</h3>
   <h4>3. Mig Country Oficial</h4>
   <h5>4. Sharknezz</h5>
   <h6>5. Aurélia Countryballs</h6>
