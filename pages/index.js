@@ -1,11 +1,11 @@
 import { useState } from "react";
 
 function Home() {
-  const [bgColor, setBgColor] = useState("#1c78ab");
+  const [bgColor, setBgColor] = useState("#cf9200");
   
   return (
     <main style={{ backgroundColor: bgColor, minHeight: "100vh", padding: "2rem" }}>
-    <button onClick={() => setBgColor(bgColor === "#0000ff" ? "#dbeafe" : "#0000ff")}>
+    <button onClick={() => setBgColor(bgColor === "#aaaaaa" ? "#dbeafe" : "#aaaaaa")}>
     <h1>Todos os canais de Countryballs do Brasil no YouTube
     <div>
     <p>
