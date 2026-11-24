@@ -2,12 +2,10 @@ function Home() {
   return (
     <h1>Todos os canais de Countryballs do Brasil no YouTube
     <div>
-    <p1>
-    1. DGP Mundo
-    </p1>
-    <p2>
+    <p>
+    1. DGP Mundo <br />
     2. SulBall
-    </p2>
+    </p>
     </div>
     </h1>
   );
