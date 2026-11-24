@@ -6,8 +6,6 @@ export default function Home() {
   return (
     <main style={{ backgroundColor: bgColor, minHeight: "100vh", padding: "2rem" }}>
     <button onClick={() => setBgColor(bgColor === "#ffffff" ? "#dbeafe" : "#ffffff")}>
-    </button>
-    </main>
     <h1>Todos os canais de Countryballs do Brasil no YouTube
     <div>
     <p>
@@ -68,6 +66,8 @@ export default function Home() {
     Mais canais em breve
     </div>
     </h1>
+    </button>
+    </main>
   );
 }
 
