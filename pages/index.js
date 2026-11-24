@@ -1,8 +1,14 @@
-function Home() {
+import { useState } from "react";
+
+export default function Home() {
+  const [bgColor, setBgColor] = useState("#00ffff");
+  
   return (
-    <main style={{ backgroundColor: "#00FFFF"}}>
-    <h1>Todos os canais de Countryballs do Brasil no YouTube
+    <main style={{ backgroundColor: bgColor, minHeight: "100vh", padding: "2rem" }}>
+    <button onClick={() => setBgColor(bgColor === "#ffffff" ? "#dbeafe" : "#ffffff")}>
+    </button>
     </main>
+    <h1>Todos os canais de Countryballs do Brasil no YouTube
     <div>
     <p>
     1. DGP Mundo <br />
