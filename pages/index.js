@@ -1,6 +1,6 @@
 function Home() {
   return (
-    <main style={{ backgroundColor: "#00FFFF", minHeight: "100vh", color: "#fff" }}>
+    <main style={{ backgroundColor: "#00FFFF", minHeight: "100vh", color: "#ffffff" }}>
     <h1>Todos os canais de Countryballs do Brasil no YouTube
     </main>
     <div>
