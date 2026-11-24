@@ -52,7 +52,10 @@ function Home() {
     47. Equador Ball <br />
     48. Pedro Miguel Balls <br />
     49. Lukinhas Countryballs <br />
-    50. Luccas_OFC
+    50. Luccas_OFC <br />
+    51. Gabriel country balls <br />
+    52. ⚡ •DK Country_01 💫 <br />
+    53. MAISON PON
     </p>
     Mais canais em breve
     </div>
