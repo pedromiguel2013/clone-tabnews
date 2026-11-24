@@ -2,7 +2,7 @@ function Home() {
   return (
     <main style={{ backgroundColor: "#00FFFF", minHeight: "100vh", color: "#fff" }}>
     <h1>Todos os canais de Countryballs do Brasil no YouTube
-  </main>
+    </main>
     <div>
     <p>
     1. DGP Mundo <br />
