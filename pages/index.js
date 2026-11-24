@@ -1,6 +1,6 @@
 import { useState } from "react";
 
-export default function Home() {
+function Home() {
   const [bgColor, setBgColor] = useState("#00ffff");
   
   return (
