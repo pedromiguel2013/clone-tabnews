@@ -59,7 +59,7 @@ function Home() {
     48. Equador Ball <br />
     49. Lukinhas Countryballs <br />
     50. Luccas_OFC <br />
-    51. Gabriel country balls <br />
+    51. Gabriel Country Balls <br />
     52. ⚡ •DK Country_01 💫 <br />
     53. MAISON PON <br />
     54. Sol Countryballs 🌞 <br />
@@ -68,7 +68,17 @@ function Home() {
     57. Vitinho Countryballs <br />
     58. Milan J Countryballs <br />
     59. MUNDO COUNTRYBALLS <br />
-    60. 🇧🇷 SpaceCountryballs [OFC]
+    60. 🇧🇷 SpaceCountryballs [OFC] <br />
+    61. TABOÃO COUNTRYBALLS <br />
+    62. 𝐋𝐇𝐇 𝐂𝐁 𝐀𝐧𝐢𝐦𝐚𝐭𝐢𝐨𝐧𝐬 <br />
+    63. LEOGEO 🌏 <br />
+    64. Otávio Countryballs <br />
+    65. C.b animations ⭐ <br />
+    66. Rondônia_ball <br />
+    67. NapoMiguel_Balls <br />
+    68. Lucas Emanuel Countryballs <br />
+    69. OMDG <br />
+    70. Lucas Countryballs OFC
     </p>
     Mais canais em breve
     </div>
