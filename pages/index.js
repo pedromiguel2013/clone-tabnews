@@ -78,7 +78,18 @@ function Home() {
     67. NapoMiguel_Balls <br />
     68. Lucas Emanuel Countryballs <br />
     69. OMDG <br />
-    70. Lucas Countryballs OFC
+    70. Lucas Countryballs OFC <br />
+    71. Foi Assim <br />
+    72. Lucena Countryballs <br />
+    73. Nigéria Balls <br />
+    74. CountryPE <br />
+    75. Brasil MS Super 🇧🇷 <br />
+    76. MBY 🇧🇷 <br />
+    77. VSD <br />
+    78. 𝕊𝕨𝕚𝕥𝕫𝕖𝕣𝕝𝕒𝕟𝕕 <br />
+    79.  U.S.BALL_ <br />
+    80. Nicolas_kat [YoutubeBalls] <br />
+    81. História Simplificada
     </p>
     Mais canais em breve
     </div>
