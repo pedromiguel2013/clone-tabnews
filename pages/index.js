@@ -75,21 +75,40 @@ function Home() {
     64. Otávio Countryballs <br />
     65. C.b animations ⭐ <br />
     66. Rondônia_ball <br />
-    67. NapoMiguel_Balls <br />
-    68. Lucas Emanuel Countryballs <br />
-    69. OMDG <br />
-    70. Lucas Countryballs OFC <br />
-    71. Foi Assim <br />
-    72. Lucena Countryballs <br />
-    73. Nigéria Balls <br />
-    74. CountryPE <br />
-    75. Brasil MS Super 🇧🇷 <br />
-    76. MBY 🇧🇷 <br />
-    77. VSD <br />
-    78. 𝕊𝕨𝕚𝕥𝕫𝕖𝕣𝕝𝕒𝕟𝕕 <br />
-    79.  U.S.BALL_ <br />
-    80. Nicolas_kat [YoutubeBalls] <br />
-    81. História Simplificada
+    67. Marcell Blox YT <br />
+    68. NapoMiguel_Balls <br />
+    69. Lucas Emanuel Countryballs <br />
+    70. OMDG <br />
+    71. Lucas Countryballs OFC <br />
+    72. Foi Assim <br />
+    73. Lucena Countryballs <br />
+    74. Nigéria Balls <br />
+    75. CountryPE <br />
+    76. Brasil MS Super 🇧🇷 <br />
+    77. MBY 🇧🇷 <br />
+    78. VSD <br />
+    79. 𝕊𝕨𝕚𝕥𝕫𝕖𝕣𝕝𝕒𝕟𝕕 <br />
+    80.  U.S.BALL_ <br />
+    81. Nicolas_kat [YoutubeBalls] <br />
+    82. AlexXD 2.0 <br />
+    83. História Simplificada <br />
+    84. Canal C00untryb4lls <br />
+    85. Zentscretch <br>
+    86. FoFoPe [YoutubeBalls] <br />
+    87. Minas Gerais OFC★ <br />
+    88. Amazonas Balls <br />
+    89. CountrySuper <br />
+    90. Luca Ceni [ PPS ] <br />
+    91. Gustavo Ball <br />
+    92. AnDrewPie <br />
+    93. Teixeira Vídeos2 <br />
+    94. 『💚General potiguarツ🤍』 <br />
+    95. Alguém me Salve! <br />
+    96. Orange Ball <br />
+    97. MéxicoTrollZ <br />
+    98. Muskara Countryballs 16K <br />
+    99. Black Gold <br />
+    100. Minduim 
     </p>
     Mais canais em breve
     </div>
