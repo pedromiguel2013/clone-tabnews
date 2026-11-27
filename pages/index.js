@@ -93,7 +93,7 @@ function Home() {
     82. AlexXD 2.0 <br />
     83. História Simplificada <br />
     84. Canal C00untryb4lls <br />
-    85. Zentscretch <br>
+    85. Zentscretch <br />
     86. FoFoPe [YoutubeBalls] <br />
     87. Minas Gerais OFC★ <br />
     88. Amazonas Balls <br />
